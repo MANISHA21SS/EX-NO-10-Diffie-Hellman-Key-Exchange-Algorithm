@@ -1,7 +1,10 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
 
+
 ## AIM:
 To Implement Diffie Hellman Key Exchange Algorithm 
+
+
 
 ## Algorithm:
 
@@ -17,6 +20,8 @@ To Implement Diffie Hellman Key Exchange Algorithm
    - Each party computes the shared secret key using the received public key and their own private key.
 
 5. Security: The difficulty of computing discrete logarithms ensures that the shared key remains secure even if public values are intercepted.
+
+
 
 ## Program:
 ```
@@ -61,8 +66,12 @@ int main()
     return 0;
 }
 ```
+
+
 ## Output:
 ![Screenshot (202)](https://github.com/user-attachments/assets/a4a4104c-24a0-4883-919d-ae0bc8abcbf3)
+
+
 
 ## Result:
   The program is executed successfully.
